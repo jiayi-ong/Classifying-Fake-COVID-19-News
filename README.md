@@ -3,7 +3,7 @@ Submitted for the STEM Fellowship Undergraduate Big Data Challenge 2021
 
 View for more info: https://stemfellowship.org/undergraduate-big-data-challenge-homepage-2021/
 
-Abstract
+### Abstract
 
 False or inaccurate information that circulates
 social media platforms can instill false beliefs
@@ -31,3 +31,12 @@ of 88.76%. Further refinement to the hybrid
 architecture and parameter tuning should yield
 higher performance closer to that required of a
 real-time fake news detector.
+
+### Social Media Data
+Data on social media posts containing fake and non-fake news are provided by the competition host (STEM Fellowship) and are hidden for confidentiality.
+
+### GloVe for Twitter
+Jeffrey Pennington, Richard Socher, and
+Christopher D. Manning. Glove: Global vectors
+for word representation. pages 1532–
+1543, 2014. Retrieved from https://nlp.stanford.edu/projects/glove/
