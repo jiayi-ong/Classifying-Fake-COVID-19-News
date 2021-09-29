@@ -1,6 +1,8 @@
 # Classifying-Fake-COVID-19-News
 Submitted for the STEM Fellowship Undergraduate Big Data Challenge 2021
 
+View for more info: https://stemfellowship.org/undergraduate-big-data-challenge-homepage-2021/
+
 Abstract
 
 False or inaccurate information that circulates
