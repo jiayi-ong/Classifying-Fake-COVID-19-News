@@ -1,6 +1,8 @@
 # Classifying-Fake-COVID-19-News
-Submitted for the STEM Fellowship Undergraduate Big Data Challenge 2021 /n
+Submitted for the STEM Fellowship Undergraduate Big Data Challenge 2021
+
 Abstract
+
 False or inaccurate information that circulates
 social media platforms can instill false beliefs
 and encourage ill-informed decisions. This can
